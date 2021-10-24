@@ -1,0 +1,9 @@
+# Write a Python program to square the elements of a list using map() function.
+
+
+
+l=[1,2,3,4,5,6]
+z=list(map(lambda x: x**2 ,l))
+
+z
+
