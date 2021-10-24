@@ -1,1 +1,12 @@
 
+# Write a Python program to create a lambda function that adds 25 to a given number passed in as an argument.
+
+
+
+number= lambda a : a + 25
+print(number(30))
+
+number(22)
+
+number(10)
+
